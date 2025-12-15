@@ -1,9 +1,10 @@
 # PureFlow
 🎤🔥 Rap HaLashon – קוֹל טָהוֹר בְּקֶצֶב אֱמוּנָה 🔥🎤  (מאגר מוצע לפיתוח: PureFlow (PF) – Pure × Flow)
 
- 🗣️ תיקון לשון – סגולות 40 ימים ✨ - https://chatgpt.com/share/694010fd-a0ac-8013-b3c9-bdc1a2c58acd
-- 
+ ##  
 
+ <a href="https://chatgpt.com/share/694010fd-a0ac-8013-b3c9-bdc1a2c58acd"> 🗣️ תיקון לשון – סגולות 40 ימים ✨ </a>
+ 
 # 🧭 **סריקה מקיפה של כל השיחה – מפת הדרך המלאה לפרויקט 40 הימים**
 
 ---
